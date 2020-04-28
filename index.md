@@ -1,2 +1,2 @@
-<center><font color = pink size = 10> 表白猪猪！</font></center>
-<center><font color = blue size 10> 晚安！</font></center>
+<center> 表白猪猪！</center>
+<center>晚安！</center>
